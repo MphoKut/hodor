@@ -5,9 +5,8 @@ from bs4 import BeautifulSoup
 
 php = "http://158.69.76.135/level1.php"
 vote = {
-    "id": "375",
-    "holdthedoor": "holdthedoor",
-    "key": ""
+    "id": "4492",
+    "holdthedoor": "holdthedoor"
 }
 
 if __name__ == "__main__":
